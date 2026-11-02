@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Sales+Prediction+%26+Conversion+Analytics;Predictive+Modeling+%26+Classification+Pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Sales+Prediction+%26+Conversion+Analysis;Predictive+Modeling+%26+Classification+Pipeline" alt="Typing SVG" />
 </p>
 
 <p align="center">
