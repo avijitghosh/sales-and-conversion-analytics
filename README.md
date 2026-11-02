@@ -11,7 +11,7 @@
 ---
 
 ## 📈 Executive Summary
-This analytics project tackles two foundational tasks: **Sales Prediction** (Continuous Outcome Modeling) and **Customer Conversion** (Binary Classification) using dynamic marketing datasets[cite: 4, 8]. By implementing a 70/30 train-validation split (reproducible seed structure), multiple linear regression models and logistic regression architectures were constructed, evaluated, and optimized based on validation set performance metrics[cite: 5, 7, 9, 13].
+This analytics project tackles two foundational tasks: **Sales Prediction** (Continuous Outcome Modeling) and **Customer Conversion** (Binary Classification) using dynamic marketing datasets. By implementing a 70/30 train-validation split (reproducible seed structure), multiple linear regression models and logistic regression architectures were constructed, evaluated, and optimized based on validation set performance metrics.
 
 ---
 
